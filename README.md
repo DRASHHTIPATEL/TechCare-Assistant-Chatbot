@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Overview
 
 This project is a command-line chatbot that helps customers with everyday support needs.

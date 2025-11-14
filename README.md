@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Overview
 
 This project is a command-line chatbot that helps customers with everyday support needs.
@@ -78,3 +79,6 @@ This project was created to demonstrate:
 	•	and how to store data simply using JSON files.
 
 It is fully functional and ready for further expansion (such as web UI, database, or multi-user support).
+=======
+# TechCare-Assistant-Chatbot
+>>>>>>> 31bdad966100dbf13102d47c29b889354e87bddb
